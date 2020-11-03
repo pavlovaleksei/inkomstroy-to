@@ -1,7 +1,7 @@
 {
-  "name": "Portfolio",
+  "name": "Inkomstroy-TO",
   "version": "0.1.0",
-  "description": "Personal portfolio",
+  "description": "Landing for inkomstroy-to.ru",
   "author": "Pavlov Aleksey <alekseipavlov1988@gmail.com>",
   "private": true,
   "scripts": {

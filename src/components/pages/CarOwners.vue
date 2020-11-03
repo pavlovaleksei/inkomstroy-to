@@ -2,19 +2,19 @@
     <div>
         <Header></Header>
         <div class="containerPage">
-            <Biography></Biography>
+            <IndexText></IndexText>
         </div>
     </div>
 </template>
 <script>
     import Header from '@/components/Header'
-    import Biography from '@/components/pages/about/Biography'
+    import IndexText from '@/components/pages/about/IndexText'
 
     export default {
-        name: 'AboutMe',
+        name: 'CarOwners',
         components: {
             Header,
-            Biography
+            IndexText
         }
     }
 </script>

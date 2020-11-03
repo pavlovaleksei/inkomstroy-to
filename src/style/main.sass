@@ -1,10 +1,6 @@
 @import "components/menu"
-@import "components/biography"
-@import "components/aboutProject"
-@import "components/aboutContacts"
 @import "components/header"
 @import "components/footer"
-@import "components/project"
 
 //full screen
 @media screen and (min-width: 851px)
@@ -19,6 +15,18 @@
     left: 50%
     margin-right: -50%
     transform: translate(-50%, 0)
+  .priceTable
+    width: 1024px
+    border: 1px solid black
+    border-collapse: collapse
+  .tableOneThItem
+    width: 100px
+  .tableTwoThItem
+    width: 180px
+  .contactContent
+    padding-top: 2%
+    text-align: left
+    font-size: 24px
 
 //mobile device
 @media screen and (max-width: 850px)
@@ -34,6 +42,20 @@
     left: 50%
     margin-right: -50%
     transform: translate(-50%, 0)
+  .priceTable
+    //width: 300px
+    border: 1px solid black
+    border-collapse: collapse
+    font-size: 12px
+  .tableOneThItem
+    width: 20px
+  .tableTwoThItem
+    width: 180px
+    font-size: 10px
+  .contactContent
+    padding-top: 2%
+    text-align: left
+    font-size: 18px
 
 //mobile device iPhone 5/se
 @media screen and (max-width: 330px)
@@ -45,3 +67,17 @@
     margin: 0 auto
   .containerPage
     position: relative
+    padding-left: 2%
+    padding-right: 2%
+  .priceTable
+    width: 300px
+    border: 1px solid black
+    border-collapse: collapse
+    font-size: 10px
+  .tableOneThItem
+    width: 20px
+  .tableTwoThItem
+    width: 180px
+  .contactContent
+    padding-top: 2%
+    text-align: left

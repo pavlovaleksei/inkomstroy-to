@@ -1,26 +1,59 @@
 <template>
     <div>
-        <div class="header_custom" v-if="isCustom">
-            <div class="header_content_custom">
-                <div class="header_title">{{msg.projectTitle}}</div>
+        <div class="header" v-if="isCustom">
+            <div class="header_content">
+                <div>
+                    <div class="customeHeaderContentOne">
+                        ТЕХОСМОТР В ИНКОМСТРОЙ
+                    </div>
+                    <div class="customeHeaderContentTwo">
+                        Высокотехнологично, качественно, быстро
+                    </div>
+                </div>
+                <div>
+                    <div class="containerPage">
+                        <div style="color: white; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
+                        <div style="display: flex; color: white;">
+                            <div style="">Адрес:</div>
+                            <div style="padding-left: 1%">410036, Россия, г. Саратов, ул. Ново-Астраханское шоссе, д. 73</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">Рабочий телефон:</div>
+                            <div style="padding-left: 1%">+7 8452 94-05-56</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">E-mail:</div>
+                            <div style="padding-left: 1%">inkomto@yandex.ru</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">График работы:</div>
+                            <div style="padding-left: 1%; text-align: left">пн-пт: 08.30 - 17.00<br>сб: 09.00 - 13.00<br>вс: выходной<br>обед: 13.00 - 14.00</div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="header" v-if="!isCustom">
             <div class="header_content">
-                <img class="header_image" alt="Photo" src="../assets/photo.jpg">
+                <img class="header_image" alt="Photo" src="../assets/logotype.png">
                 <div>
-                    <div class="header_title">{{msg.name}}</div>
-                    <div class="header_description">fullstack web developer</div>
-                    <div class="header_skills_container">
-                        <div class="header_skills">
-                            <div class="header_skills_item">Java</div>
-                            <div class="header_skills_item">Scala</div>
-                            <div class="header_skills_item">Spring Framework</div>
-                            <div class="header_skills_item">Play Framework</div>
-                            <div class="header_skills_item">JavaScript</div>
-                            <div class="header_skills_item">VueJs</div>
-                            <div class="header_skills_item">ExtJs</div>
-                            <div class="header_skills_item">CSS</div>
+                    <div class="containerPage">
+                        <div style="color: white; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
+                        <div style="display: flex; color: white;">
+                            <div style="">Адрес:</div>
+                            <div style="padding-left: 1%">410036, Россия, г. Саратов, ул. Ново-Астраханское шоссе, д. 73</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">Рабочий телефон:</div>
+                            <div style="padding-left: 1%">+7 8452 94-05-56</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">E-mail:</div>
+                            <div style="padding-left: 1%">inkomto@yandex.ru</div>
+                        </div>
+                        <div style="display: flex; color: white;">
+                            <div style="">График работы:</div>
+                            <div style="padding-left: 1%; text-align: left">пн-пт: 08.30 - 17.00<br>сб: 09.00 - 13.00<br>вс: выходной<br>обед: 13.00 - 14.00</div>
                         </div>
                     </div>
                 </div>
@@ -29,9 +62,6 @@
     </div>
 </template>
 <script>
-    const lang = localStorage.getItem('language') === null ? "ru" : localStorage.getItem('language');
-    const doc = require('../assets/text/text_' + lang);
-
     export default {
         name: 'Header',
         props: {
@@ -43,8 +73,7 @@
         data() {
             return {
                 msg: {
-                    name: doc.name,
-                    projectTitle: doc.projecttitle
+                    projectTitle: "Прейскурант"
                 }
             }
         }

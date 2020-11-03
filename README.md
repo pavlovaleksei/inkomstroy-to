@@ -1,9 +1,9 @@
-# Personal portfolio site
-This project is my personal portfolio site.
+# Inkomstroy-to LLC personal site
+That project is personal site for inkomstroy-to
 <br>
 Used technologies - VueJs, Sass.
 <br>
-Show demo: https://pavlovaleksei.github.io/
+Show demo: http://inkomstroy-to.ru
 
 ## Project setup
 ```

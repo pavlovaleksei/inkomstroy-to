@@ -2,61 +2,48 @@
     <div>
         <div class="menu">
             <nav>
-                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': true, 'projects': false})">{{menuItems.about}}</a>
+                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': true, 'price': false, 'lay': false, 'contacts': false})">Автовладельцам</a>
                 <p>|</p>
-                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'projects': true})">{{menuItems.projects}}</a>
+                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': true, 'lay': false, 'contacts': false})">Прайс</a>
+                <p>|</p>
+                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': false, 'lay': true, 'contacts': false})">Законодательство</a>
+                <p>|</p>
+                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': false, 'lay': false, 'contacts': true})">Контакты</a>
             </nav>
-            <div class="checkLanguage">
-                <div v-if="!isRu" class="itemLanguage" @click="clickRu">RUS</div>
-                <div v-if="isRu" class="itemLanguage" @click="clickEng">ENG</div>
-            </div>
         </div>
-        <about-me v-if="isShow.about"></about-me>
-        <my-projects v-if="isShow.projects"></my-projects>
+        <car-owners v-if="isShow.about"></car-owners>
+        <price v-if="isShow.price"></price>
+        <lay v-if="isShow.lay"></lay>
+        <contacts v-if="isShow.contacts"></contacts>
     </div>
 </template>
 <script>
-    import aboutMe from '@/components/pages/AboutMe'
-    import myProjects from '@/components/pages/Projects'
-
-    const lang = localStorage.getItem('language') === null ? "ru" : localStorage.getItem('language')
-    const doc = require('../assets/text/text_' + lang);
+    import carOwners from '@/components/pages/CarOwners'
+    import price from '@/components/pages/Price'
+    import lay from '@/components/pages/Lay'
+    import contacts from '@/components/pages/Contacts'
 
     export default {
         name: 'Main',
 
         components: {
-            aboutMe,
-            myProjects
+            carOwners,
+            price,
+            lay,
+            contacts
         },
 
         data() {
             return {
-                isRu: true,
-                menuItems: {
-                    about: doc.menu.about,
-                    projects: doc.menu.projects
-                },
                 isShow: {
                     about: true,
-                    projects: false
+                    price: false,
+                    lay: false,
+                    contacts: false
                 }
             }
         },
-        created() {
-            this.isRu = lang === 'ru';
-        },
         methods: {
-            clickRu() {
-                localStorage.removeItem("language")
-                localStorage.setItem("language", 'ru')
-                location.reload()
-            },
-            clickEng() {
-                localStorage.removeItem("language")
-                localStorage.setItem("language", 'eng')
-                location.reload()
-            },
             clickMenuItem(obj) {
                 this.isShow = obj;
             }
