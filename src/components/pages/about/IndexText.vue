@@ -24,7 +24,7 @@
             </div>
             <!-- LINKS -->
             <div style="padding-top: 2%">
-                <a :href="'@/assets/docs/fz-170.pdf'" target="_blank">Форма договора</a>
+                <a href="http://inkomstroy-to.ru/public/docs/form_of_contract.docx" target="_blank">Форма договора</a>
                 <br>
                 <a :href="require('@/assets/docs/certificate.jpg')" target="_blank">Копия аттестата аккредитации</a>
             </div>
