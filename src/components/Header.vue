@@ -41,7 +41,7 @@
                         <div style="color: black; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
                         <div style="display: flex; color: black;">
                             <div style="">Адрес:</div>
-                            <div style="padding-left: 1%; text-align: left">410036, Россия, г. Саратов, <br>ул. Ново-Астраханское шоссе, д. 73</div>
+                            <div style="padding-left: 1%; text-align: left">410036, Россия, г. Саратов, ул. Ново-Астраханское шоссе, д. 73</div>
                         </div>
                         <div style="display: flex; color: black;">
                             <div style="">Рабочий телефон:</div>
