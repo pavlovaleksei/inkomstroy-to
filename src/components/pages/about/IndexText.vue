@@ -25,8 +25,9 @@
             <!-- LINKS -->
             <div style="padding-top: 2%">
                 <a href="http://inkomstroy-to.ru/public/docs/form_of_contract.docx" target="_blank">Форма договора</a>
-                <br>
-                <a :href="require('@/assets/docs/certificate.jpg')" target="_blank">Копия аттестата аккредитации</a>
+              <!-- 16-03-2022 Telegram Леш, когда будешь делать, убери, пожалуйста, аттестат аккредитации и прайс. Спасибо большое тебе! -->
+<!--                <br>-->
+<!--                <a :href="require('@/assets/docs/certificate.jpg')" target="_blank">Копия аттестата аккредитации</a>-->
             </div>
         </div>
     </div>
