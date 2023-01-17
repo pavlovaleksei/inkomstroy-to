@@ -3,9 +3,8 @@
         <div class="menu">
             <nav>
                 <a style="cursor: pointer" v-on:click="clickMenuItem({'about': true, 'price': false, 'lay': false, 'contacts': false})">Автовладельцам</a>
-              <!-- 16-03-2022 Telegram Леш, когда будешь делать, убери, пожалуйста, аттестат аккредитации и прайс. Спасибо большое тебе! -->
-<!--                <p>|</p>-->
-<!--                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': true, 'lay': false, 'contacts': false})">Прайс</a>-->
+                <p>|</p>
+                <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': true, 'lay': false, 'contacts': false})">Прайс</a>
                 <p>|</p>
                 <a style="cursor: pointer" v-on:click="clickMenuItem({'about': false, 'price': false, 'lay': true, 'contacts': false})">Законодательство</a>
                 <p>|</p>
