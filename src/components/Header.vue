@@ -15,7 +15,7 @@
                         <div style="color: black; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
                         <div style="display: flex; color: black;">
                             <div style="">Адрес:</div>
-                            <div style="padding-left: 1%; text-align: left">Российская Федерация, Саратовская область, г.о. город Саратов,<br>г. Саратов, ш Ново-Астраханское, зд. 73М стр. 3</div>
+                            <div style="padding-left: 1%; text-align: left">410036 Российская Федерация,<br>Саратовская область, г.о. город Саратов,<br>г. Саратов, ш Ново-Астраханское, з/у 73М.</div>
                         </div>
                         <div style="display: flex; color: black;">
                           <div style="">ИНН:</div>
@@ -49,7 +49,7 @@
                         <div style="color: black; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
                         <div style="display: flex; color: black;">
                           <div style="">Адрес:</div>
-                          <div style="padding-left: 1%; text-align: left">Российская Федерация, Саратовская область, г.о. город Саратов,<br>г. Саратов, ш Ново-Астраханское, зд. 73М стр. 3</div>
+                          <div style="padding-left: 1%; text-align: left">410036 Российская Федерация,<br>Саратовская область, г.о. город Саратов,<br>г. Саратов, ш Ново-Астраханское, з/у 73М.</div>
                         </div>
                         <div style="display: flex; color: black;">
                           <div style="">ИНН:</div>
