@@ -15,152 +15,152 @@
                 <tr>
                     <td align="center">M1</td>
                     <td>Транспортные средства, используемые для перевозки пассажиров и имеющие, помимо места водителя, не более 8 мест для сидения легковые автомобили</td>
-                    <td align="center">913</td>
+                    <td align="center">1020</td>
                 </tr>
                 <tr>
                     <td align="center">М2</td>
                     <td>Транспортные средства, используемые для перевозки пассажиров, имеющие, помимо места водителя, более 8 мест для сидения, технически допустимая максимальная масса которых не превышает 5 тонн</td>
-                    <td align="center">1563</td>
+                    <td align="center">1750</td>
                 </tr>
                 <tr>
                     <td align="center">М3</td>
                     <td>Транспортные средства, используемые для перевозки пассажиров, имеющие, помимо места водителя, более 8 мест для сидения, технически допустимая максимальная масса которых превышает 5 тонн</td>
-                    <td align="center">1888</td>
+                    <td align="center">2110</td>
                 </tr>
                 <tr>
                     <td align="center">N1</td>
                     <td>Транспортные средства, предназначенные для перевозки грузов, имеющие технически допустимую максимальную массу не более 3.5 тонны</td>
-                    <td align="center">999</td>
+                    <td align="center">1115</td>
                 </tr>
                 <tr>
                     <td align="center">N2</td>
                     <td>Транспортные средства, предназначенные для перевозки грузов, имеющие технически допустимую максимальную массу свыше 3,5 тонны, но не более 12 тонн</td>
-                    <td align="center">1821</td>
+                    <td align="center">2035</td>
                 </tr>
                 <tr>
                     <td align="center">N3</td>
                     <td>Транспортные средства, предназначенные для перевозки грузов, имеющие технически допустимую максимальную массу более 12 тонн</td>
-                    <td align="center">1966</td>
+                    <td align="center">2200</td>
                 </tr>
-                <tr>
-                    <td align="center">О1</td>
-                    <td>Прицепы (полуприцепы), технически допустимая максимальная масса, которых не более 0,75 тонн.</td>
-                    <td align="center">420</td>
-                </tr>
-                <tr>
-                    <td align="center">О2</td>
-                    <td>Прицепы (полуприцепы), технически допустимая максимальная масса, которых свыше 0,75 тонн, но не более 3,5 тонн.</td>
-                    <td align="center">420</td>
-                </tr>
+<!--                <tr>-->
+<!--                    <td align="center">О1</td>-->
+<!--                    <td>Прицепы (полуприцепы), технически допустимая максимальная масса, которых не более 0,75 тонн.</td>-->
+<!--                    <td align="center">420</td>-->
+<!--                </tr>-->
+<!--                <tr>-->
+<!--                    <td align="center">О2</td>-->
+<!--                    <td>Прицепы (полуприцепы), технически допустимая максимальная масса, которых свыше 0,75 тонн, но не более 3,5 тонн.</td>-->
+<!--                    <td align="center">420</td>-->
+<!--                </tr>-->
                 <tr>
                     <td align="center">О3, O4</td>
                     <td>Прицепы, технически допустимая максимальная масса которых свыше 3,5 тонны, но не более 10 тонн, и прицепы, технически допустимая максимальная масса которых более 10 тонн</td>
-                    <td align="center">1272</td>
+                    <td align="center">1420</td>
                 </tr>
                 <tr>
                     <td align="center">L</td>
                     <td>Мототранспортные средства</td>
-                    <td align="center">321</td>
+                    <td align="center">355</td>
                 </tr>
                 <tr>
                   <td align="center">M1</td>
                   <td>Специальные транспортные средства оперативных служб</td>
-                  <td align="center">974</td>
+                  <td align="center">1090</td>
                 </tr>
                 <tr>
                   <td align="center">M2</td>
                   <td>Специальные транспортные средства оперативных служб</td>
-                  <td align="center">1563</td>
+                  <td align="center">1750</td>
                 </tr>
                 <tr>
                   <td align="center">M3</td>
                   <td>Специальные транспортные средства оперативных служб</td>
-                  <td align="center">1783</td>
+                  <td align="center">1995</td>
                 </tr>
                 <tr>
                   <td align="center">N1</td>
                   <td>Специальные транспортные средства оперативных служб, цистерны, цистерны для перевозки и заправки сжиженных углеводородных газов, фургоны, фургоны, имеющие места для перевозки людей, автоэвакуаторы</td>
-                  <td align="center">1061</td>
+                  <td align="center">1185</td>
                 </tr>
                 <tr>
                   <td align="center">N2</td>
                   <td>Специальные транспортные средства оперативных служб, автоэвакуаторы, транспортные средства с грузоподъемными устройствами, цистерны, цистерны для перевозки и заправки сжиженных углеводородных газов, фургоны, транспортные средства для перевозки пищевых продуктов</td>
-                  <td align="center">1908</td>
+                  <td align="center">2135</td>
                 </tr>
                 <tr>
                   <td align="center">N3</td>
                   <td>Специальные транспортные средства оперативных служб, автоэвакуаторы, транспортные средства с грузоподъемными устройствами, цистерны, цистерны для перевозки и заправки сжиженных углеводородных газов, фургоны, транспортные средства для перевозки пищевых продуктов</td>
-                  <td align="center">2053</td>
+                  <td align="center">2295</td>
                 </tr>
                 <tr>
                   <td align="center">O3, O4</td>
                   <td>Специальные транспортные средства оперативных служб, автоэвакуаторы, транспортные средства с грузоподъемными устройствами, цистерны, цистерны для перевозки и заправки сжиженных углеводородных газов, фургоны, транспортные средства для перевозки пищевых продуктов</td>
-                  <td align="center">1330</td>
+                  <td align="center">1485</td>
                 </tr>
                 <tr>
                   <td align="center">L</td>
                   <td>Специальные транспортные средства оперативных служб</td>
-                  <td align="center">353</td>
+                  <td align="center">395</td>
                 </tr>
                 <tr>
                   <td align="center">N1</td>
                   <td>Специализированные транспортные средства, цистерны для перевозки и заправки нефтепродуктов</td>
-                  <td align="center">1155</td>
+                  <td align="center">1290</td>
                 </tr>
                 <tr>
                   <td align="center">N2</td>
                   <td>Специализированные транспортные средства, цистерны для перевозки и заправки нефтепродуктов, транспортные средства фургоны, имеющие места для перевозки людей</td>
-                  <td align="center">2081</td>
+                  <td align="center">2325</td>
                 </tr>
                 <tr>
                   <td align="center">N3</td>
                   <td>Специализированные транспортные средства, фургоны, имеющие места для перевозки людей, цистерны для перевозки и заправки нефтепродуктов</td>
-                  <td align="center">2255</td>
+                  <td align="center">2520</td>
                 </tr>
                 <tr>
                   <td align="center">O3, O4</td>
                   <td>Специализированные транспортные средства</td>
-                  <td align="center">1474</td>
+                  <td align="center">1650</td>
                 </tr>
                 <tr>
                   <td align="center">N1</td>
                   <td>Специальные транспортные средства для коммунального хозяйства и содержания дорог</td>
-                  <td align="center">1093</td>
+                  <td align="center">1220</td>
                 </tr>
                 <tr>
                   <td align="center">N2</td>
                   <td>Специальные транспортные средства для коммунального хозяйства и содержания дорог, транспортные средства для перевозки грузов с использованием прицепа-роспуска</td>
-                  <td align="center">1994</td>
+                  <td align="center">2230</td>
                 </tr>
                 <tr>
                   <td align="center">N3</td>
                   <td>Специальные транспортные средства для коммунального хозяйства и содержания дорог, транспортные средства для перевозки грузов с использованием прицепа-роспуска</td>
-                  <td align="center">2168</td>
+                  <td align="center">2425</td>
                 </tr>
                 <tr>
                   <td align="center">O3, O4</td>
                   <td>Специальные транспортные средства для коммунального хозяйства содержания дорог, транспортные средства - цистерны для перевозки и заправки нефтепродуктов</td>
-                  <td align="center">1388</td>
+                  <td align="center">1554</td>
                 </tr>
                 <tr>
                   <td align="center">N1</td>
                   <td>Транспортные средства для перевозки опасных грузов</td>
-                  <td align="center">1311</td>
+                  <td align="center">1465</td>
                 </tr>
                 <tr>
                   <td align="center">N2</td>
                   <td>Транспортные средства для перевозки опасных грузов</td>
-                  <td align="center">2370</td>
+                  <td align="center">2650</td>
                 </tr>
                 <tr>
                   <td align="center">N3</td>
                   <td>Транспортные средства для перевозки опасных грузов</td>
-                  <td align="center">2544</td>
+                  <td align="center">2845</td>
                 </tr>
                 <tr>
                   <td align="center">O3, O4</td>
                   <td>Транспортные средства для перевозки опасных грузов</td>
-                  <td align="center">1535</td>
+                  <td align="center">1710</td>
                 </tr>
             </table>
         </div>
@@ -181,44 +181,44 @@
                     <th>N1</th>
                     <th>N2</th>
                     <th>N3</th>
-                    <th>O1 O2</th>
+<!--                    <th>O1 O2</th>-->
                     <th>O3 O4</th>
                 </tr>
                 <tr>
                     <td><b>Проверка тормозных систем</b></td>
                     <td align="center">50 р.</td>
-                    <td align="center">150 р.</td>
+                    <td align="center">200 р.</td>
                     <td align="center">250 р.</td>
                     <td align="center">450 р.</td>
-                    <td align="center">150 р.</td>
+                    <td align="center">200 р.</td>
                     <td align="center">250 р.</td>
                     <td align="center">450 р.</td>
-                    <td align="center">100 р.</td>
+<!--                    <td align="center">100 р.</td>-->
                     <td align="center">450 р.</td>
                 </tr>
                 <tr>
                     <td><b>Проверка рулевого управления</b></td>
                     <td align="center">50 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">150 р.</td>
-                    <td align="center">-</td>
+                    <td align="center">200 р.</td>
+                    <td align="center">250 р.</td>
+                    <td align="center">250 р.</td>
+                    <td align="center">250 р.</td>
+                    <td align="center">250 р.</td>
+                    <td align="center">250 р.</td>
+<!--                    <td align="center">-</td>-->
                     <td align="center">-</td>
                 </tr>
                 <tr>
                     <td><b>Проверка внешних световых приборов</b></td>
                     <td align="center">50 р.</td>
-                    <td align="center">100 р.</td>
                     <td align="center">150 р.</td>
                     <td align="center">150 р.</td>
-                    <td align="center">100 р.</td>
                     <td align="center">150 р.</td>
                     <td align="center">150 р.</td>
-                    <td align="center">100 р.</td>
-                    <td align="center">100 р.</td>
+                    <td align="center">150 р.</td>
+                    <td align="center">150 р.</td>
+<!--                    <td align="center">100 р.</td>-->
+                    <td align="center">150 р.</td>
                 </tr>
                 <tr>
                     <td><b>Проверка стеклоочистителя  и стеклоомывателя</b></td>
@@ -229,7 +229,7 @@
                     <td align="center">50 р.</td>
                     <td align="center">50 р.</td>
                     <td align="center">50 р.</td>
-                    <td align="center">-</td>
+<!--                    <td align="center">-</td>-->
                     <td align="center">-</td>
                 </tr>
                 <tr>
@@ -241,31 +241,31 @@
                     <td align="center">100 р.</td>
                     <td align="center">100 р.</td>
                     <td align="center">100 р.</td>
-                    <td align="center">100 р.</td>
+<!--                    <td align="center">100 р.</td>-->
                     <td align="center">100 р.</td>
                 </tr>
                 <tr>
                     <td><b>Проверка двигателя и его систем</b></td>
                     <td align="center">50 р.</td>
-                    <td align="center">100 р.</td>
                     <td align="center">150 р.</td>
                     <td align="center">150 р.</td>
-                    <td align="center">100 р.</td>
                     <td align="center">150 р.</td>
                     <td align="center">150 р.</td>
-                    <td align="center">-</td>
+                    <td align="center">150 р.</td>
+                    <td align="center">150 р.</td>
+<!--                    <td align="center">-</td>-->
                     <td align="center">-</td>
                 </tr>
                 <tr>
                     <td><b>Проверка прочих элементов конструкции</b></td>
                     <td align="center">50 р.</td>
-                    <td align="center">100 р.</td>
-                    <td align="center">300 р.</td>
-                    <td align="center">300 р.</td>
-                    <td align="center">100 р.</td>
+                    <td align="center">150 р.</td>
                     <td align="center">300 р.</td>
                     <td align="center">300 р.</td>
                     <td align="center">150 р.</td>
+                    <td align="center">300 р.</td>
+                    <td align="center">300 р.</td>
+<!--                    <td align="center">150 р.</td>-->
                     <td align="center">150 р.</td>
                 </tr>
             </table>
