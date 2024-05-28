@@ -270,6 +270,9 @@
                 </tr>
             </table>
         </div>
+      <div class="containerPage" style="text-align: justify; padding-top: 2%; padding-bottom: 2%">
+        Выдача дубликата диагностической карты - 100р
+      </div>
 
 
         <Footer/>
