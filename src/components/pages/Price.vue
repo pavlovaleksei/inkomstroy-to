@@ -3,9 +3,9 @@
         <Header/>
         <div style="padding-top: 2%" class="containerPage">
             <h1 style="text-align: center; padding-bottom: 1%">Прейскурант</h1>
-            <div class="containerPage" style="text-align: right; padding-top: 1%; padding-bottom: 2%">
-              Стоимость указана без учёта НДС.
-            </div>
+<!--            <div class="containerPage" style="text-align: right; padding-top: 1%; padding-bottom: 2%">-->
+<!--              Стоимость указана без учёта НДС.-->
+<!--            </div>-->
             <table class="priceTable" border="1" align="center">
                 <tr>
                     <th class="tableOneThItem">Категория ТС по техническому регламенту</th>

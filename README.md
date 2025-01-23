@@ -3,7 +3,7 @@ That project is personal site for inkomstroy-to
 <br>
 Used technologies - VueJs, Sass.
 <br>
-Show demo: http://inkomstroy-to.ru
+Show demo: https://inkomstroy-to.ru
 
 ## Project setup
 ```
