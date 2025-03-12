@@ -18,6 +18,16 @@
                         - Законодательство в сфере технического осмотра
                     </a>
                 </div>
+                <div style="padding-top: 5%">
+                  <a href="https://autoins.ru/tekhosmotr/zakonodatelstvo/poryadok-provedeniya-tekhnicheskogo-osmotra/" target="_blank" style="font-size: 20px">
+                    - Правила проведения технического осмотра
+                  </a>
+                </div>
+                <div style="padding-top: 5%">
+                  <a href="http://inkomstroy-to.ru/public/docs/attestat.pdf" target="_blank" style="font-size: 20px">
+                    - Аттестат аккредитации оператора технического осмотра
+                  </a>
+                </div>
             </div>
         </div>
     </div>

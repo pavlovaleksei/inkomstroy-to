@@ -1,6 +1,9 @@
 <template>
     <div>
         <div class="header" v-if="isCustom">
+          <div style="color: #bb1217; text-align: center; padding-top: 4px" class="containerPage">
+            <b>Предварительная запись на технический осмотр осуществляется по телефону <a href="tel:+7 8452 94-05-56">+7 8452 94-05-56</a></b>
+          </div>
             <div class="header_content">
                 <div>
                     <div class="customeHeaderContentOne">
@@ -42,10 +45,14 @@
             </div>
         </div>
         <div class="header" v-if="!isCustom">
+            <div style="color: #bb1217; text-align: center; padding-top: 4px" class="containerPage">
+              <b>Предварительная запись на технический осмотр осуществляется по телефону <a href="tel:+7 8452 94-05-56">+7 8452 94-05-56</a></b>
+            </div>
             <div class="header_content">
                 <img class="header_image" alt="Photo" src="../assets/logotype.png">
                 <div>
                     <div class="containerPage">
+
                         <div style="color: black; text-align: left"><b>ООО "Инкомстрой-ТО"</b></div>
                         <div style="display: flex; color: black;">
                           <div style="">Адрес:</div>
